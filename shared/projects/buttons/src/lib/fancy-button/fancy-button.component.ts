@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 })
 export class FancyButtonComponent {
   fancy() {
-    throw new Error('Method not implemented.');
+    console.log('Method not implemented.');
   }
 
 }
